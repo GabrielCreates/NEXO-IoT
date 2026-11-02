@@ -136,6 +136,6 @@ nexo-iot/
 ├── README.md
 ├── docs/ (proposta-iot, componentes, arquitetura, comunicacao, fluxo-dados, privacidade-e-seguranca, iob-e-genai, referencias)
 ├── diagramas/ (fluxograma.mmd, arquitetura.mmd)
-├── video/ (roteiro-video.md)
+├── slide-nexo (arquivo de apresentação.pdf)
 └── entrega/ (checklist-e-auditoria.md, links.txt)
 ```
